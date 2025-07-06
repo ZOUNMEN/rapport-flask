@@ -1,0 +1,7 @@
+cd /storage/emulated/0/Download/zoho.zip
+git init
+git add .
+git commit -m "Premier commit Flask"
+git branch -M main
+git remote add origin https://github.com/ton-utilisateur/rapport-flask.git
+git push -u origin main
